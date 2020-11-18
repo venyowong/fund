@@ -3,7 +3,7 @@
 
 help
 ----
-
+```
 >python main.py -h
 usage: main.py [-h] --target TARGET [--fundcode FUNDCODE] [--outformat OUTFORMAT] [--output OUTPUT] [--user_asset_csv USER_ASSET_CSV]
 
@@ -16,7 +16,7 @@ optional arguments:
   --output OUTPUT       输出目录
   --user_asset_csv USER_ASSET_CSV
                         用户资产明细文件
-
+```
 get_nav
 -------
 
